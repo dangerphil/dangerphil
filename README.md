@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @dangerphil
+👋 Hi, I’m @dangerphil
 
-- 👀 I’m interested in evolutionary programming and neural networks.
-- 🌱 I’m currently learning tensorflow.js and how to implement it.
+👀 I’m interested in evolutionary programming and neural networks.
+🌱 I’m currently learning tensorflow.js and how to implement it.
 
 No idea how you ended up here, but feel free to look around! :upside_down_face:
 <!---
